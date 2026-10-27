@@ -1,0 +1,17 @@
+# Raw Turkey Geofabrik Shapefiles (~3.5 GB) & Heavy Local GPKGs - keep local only
+turkey-261021-free/
+turkey-*-free*/
+data/checket/
+output/*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
